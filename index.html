@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <div class="container d-flex justify-content-center align-items-center min-vh-100">
+    <div class="weather-card text-center p-4">
+    <div class="mb-3">
+        <input type="text" name="" id="locationInput" class="form-control" placeholder="Enter city, district, or village name" />
+        <button onclick="getWeather()" class="btn btn-primary mt-2 w-100">Search</button>  
+    </div>
+
+    <h3 id="location">Location</h3>
+    <p id="time">Time</p>
+
+    <div id="weather-icon" class="my-3">   
+    </div>
+
+<h1 id="temperature">--°C</h1>
+<p id="greeting">Greeting</p>
+
+<div class="row mt-4">
+    <div class="col">☀️<br/>Sunrise<br/><span id="sunrise">--:--</span></div>
+    <div class="col">🌬️<br/>Wind<br/><span id="wind">-- m/s</span></div>
+    <div class="col">🌡️<br/>Feels Like<br/><span id="real-temp">--</span></div>
+   </div>
+  </div>
+</div>
+
+   <script src="script.js"></script>
+</body>
+</html>
