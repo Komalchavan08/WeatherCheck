@@ -29,8 +29,8 @@ A simple yet elegant Weather Checking Web App built using HTML, CSS, and JavaScr
 
 🖼️ **Screenshots**
 **Initial Interface**
-![Initial Interface Screenshot](./screenshots/screenshot1.png)
+![Initial Interface Screenshot](./screenshot1.png)
 
 **After Searching Weather Details**
-![After Searching Screenshot](./screenshots/screenshot2.png)
+![After Searching Screenshot](./screenshot2.png)
 
