@@ -1,7 +1,9 @@
 🌤️ **WeatherCheck — Real-Time Weather App**
+
 A simple yet elegant Weather Checking Web App built using HTML, CSS, and JavaScript.This application allows users to search for any location and view real-time weather data.
 
 ✨ **Features**
+
 🌍 Fetches live weather data using the OpenWeatherMap API
 ☀️ Automatic Theme Mode:
 -Light mode during daytime
@@ -12,13 +14,14 @@ A simple yet elegant Weather Checking Web App built using HTML, CSS, and JavaScr
 📱 Responsive design (works perfectly on mobile and desktop)
 
 🛠️ **Technologies Used**
+
 •HTML5 – Structure of the webpage
 •CSS3 – Styling, layout, and dark theme design
 •JavaScript (ES6) – Logic, DOM manipulation, API fetching
 •OpenWeatherMap API – Provides real-time weather information
 •Bootstrap 5 – For responsive layout and styling helpers
 
-🚀 How It Works
+🚀 **How It Works**
 1.Enter your city, district, or village name in the input field.
 2.Click “Search”.
 3.The app calls the OpenWeatherMap API and fetches weather details.
@@ -28,6 +31,7 @@ A simple yet elegant Weather Checking Web App built using HTML, CSS, and JavaScr
   •Auto light/dark theme and greeting
 
 🖼️ **Screenshots**
+
 **Initial Interface**
 ![Initial Interface Screenshot](./screenshot1.png)
 
