@@ -33,8 +33,8 @@ A simple yet elegant Weather Checking Web App built using HTML, CSS, and JavaScr
 🖼️ **Screenshots**
 
 <p align="center">
-  <img src="./screenshot1.png" alt="Light Theme (Day Mode)" height="350" style="border-radius:10px; margin-right:10px;"/>
-  <img src="./screenshot2.png" alt="Dark Theme (Night Mode)" height="350" style="border-radius:10px;"/>
+  <img src="./screenshots/screenshot1.png" alt="Light Theme (Day Mode)" height="350" style="border-radius:10px; margin-right:10px;"/>
+  <img src="./screenshots/screenshot2.png" alt="Dark Theme (Night Mode)" height="350" style="border-radius:10px;"/>
 </p>
 
 <p align="center">
