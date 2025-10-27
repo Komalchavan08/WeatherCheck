@@ -5,11 +5,9 @@ A simple yet elegant Weather Checking Web App built using HTML, CSS, and JavaScr
 ✨ **Features**
 
 🌍 Fetches live weather data using the OpenWeatherMap API
-
 ☀️ Automatic Theme Mode:
 -Light mode during daytime
 -Dark mode during evening or night
-
 💨 Displays temperature, “feels like” temperature, wind speed, and sunrise time
 ⏰ Real-time clock and greeting message (Good Morning / Afternoon / Evening)
 🎨 Smooth animations with fade-in effects
@@ -35,6 +33,7 @@ A simple yet elegant Weather Checking Web App built using HTML, CSS, and JavaScr
 🖼️ **Screenshots**
 
 **Initial Interface**
+
 ![Initial Interface Screenshot](./screenshot1.png)
 
 **After Searching Weather Details**
