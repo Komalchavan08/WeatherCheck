@@ -32,10 +32,9 @@ A simple yet elegant Weather Checking Web App built using HTML, CSS, and JavaScr
 
 🖼️ **Screenshots**
 
-**Initial Interface**
+<p align="center">
+  <img src="./screenshot1.png" alt="Initial Interface" width="45%" style="border-radius:10px; margin-right:10px;"/>
+  <img src="./screenshot2.png" alt="After Searching Weather Details" width="45%" style="border-radius:10px;"/>
+</p>
 
-![Initial Interface Screenshot](./screenshot1.png)
-
-**After Searching Weather Details**
-![After Searching Screenshot](./screenshot2.png)
 
